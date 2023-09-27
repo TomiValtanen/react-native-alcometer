@@ -105,7 +105,7 @@ const darkStyles = StyleSheet.create({
     backgroundColor: "#352F44",
     textColor: "#FAF0E6",
     buttonColor: "#5C5470",
-    inputStyleColor: "#d6d0e6",
+    inputStyleColor: "#a8a3b7",
     thumColor:"#5C5470",
 });
 const lightStyles = StyleSheet.create({
