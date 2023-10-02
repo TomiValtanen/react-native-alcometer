@@ -65,10 +65,10 @@ export default function App() {
   /*
   console.logit testejä varten
   */
-  console.log(weight, "UseState weight")
-  console.log(bottles, "UseState Bottles")
-  console.log(hours, "UseState Hours")
-  console.log(gender, "UseState Gender")
+  //console.log(weight, "UseState weight")
+  //console.log(bottles, "UseState Bottles")
+  //console.log(hours, "UseState Hours")
+  //console.log(gender, "UseState Gender")
   return (
 
     <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
